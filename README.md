@@ -1,2 +1,3 @@
 # rockpaperscissors
-Small game written in JS
+
+Small game written in simple JS. 
